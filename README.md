@@ -1,8 +1,9 @@
+# CRUD-APP-vuejs-django
 This repo contains the code used to in the tutorial on the medium blog
 
 # Getting Started
 
-[
+```ruby
 $ git clone https://github.com/amirmohammadraei/djangovue.git
 $ cd crud-app-vuejs-django/
 $ virtualenv --python=`which python3` venv
@@ -11,7 +12,7 @@ $ pip install -r requirements.txt
 $ cd myproject
 $ python manage.py migrate
 $ python manage.py runserver
-]
+```
 
 # Application is started at
 
