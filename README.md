@@ -1,6 +1,3 @@
-# CRUD-APP-vuejs-django
-This repo contains the code used to in the tutorial on the medium blog
-
 # Getting Started
 
 ```ruby
