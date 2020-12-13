@@ -1,0 +1,11 @@
+.DS_Store
+janfy/db.sqlite3
+janfy/conct/__pycache__/__init__.cpython-38.pyc
+janfy/conct/__pycache__/admin.cpython-38.pyc
+janfy/conct/__pycache__/models.cpython-38.pyc
+janfy/conct/__pycache__/views.cpython-38.pyc
+janfy/conct/migrations/__pycache__/__init__.cpython-38.pyc
+janfy/janfy/__pycache__/__init__.cpython-38.pyc
+janfy/janfy/__pycache__/settings.cpython-38.pyc
+janfy/janfy/__pycache__/urls.cpython-38.pyc
+janfy/janfy/__pycache__/wsgi.cpython-38.pyc
