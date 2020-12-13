@@ -16,8 +16,8 @@ def call_api(request):
     array = []
     while True:
         try:
-            url = 'http://192.168.5.10:1080/api/persons/?page=' + str(count)
-            r = requests.get(url, auth=HTTPBasicAuth('admin', '$et@reyeSohe!1a'))
+            url = '' + str(count)
+            r = requests.get(url, auth=HTTPBasicAuth(''))
             array.append(r.json())
             var = r.json()['results']
             count += 1
